@@ -1,0 +1,8 @@
+Location,Price,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Seats,Mileage(km/L),Engine(CC),Power(bhp),Brand,Country,Continent,Price_Cat,City_population,Name,Fuel_Group,Owner_Group,Seat_Group
+Hyderabad,245273.6,2017,25000,Diesel,Automatic,First,5.0,13.33,2993.0,255.0,Land-Rover,India,Asia,c5,10534,Land Rover Range Rover 3.0 Diesel LWB Vogue,Diesel,First,small
+Delhi,183955.2,2011,6500,Petrol,Automatic,Third,2.0,6.4,5204.0,560.0,Lamborghini,Italy,Europe,c5,32066,Lamborghini Gallardo Coupe,Petrol,Third & Above,small
+Kolkata,45988.8,2010,35277,Petrol,Automatic,First,5.0,7.81,5461.0,362.9,Mercedes-Benz,Germany,Europe,c5,15134,Mercedes-Benz S Class 2005 2013 S 500,Petrol,First,small
+Kolkata,45222.32,2010,35000,Petrol,Automatic,First,2.0,8.1,5461.0,387.3,Mercedes-Benz,Germany,Europe,c5,15134,Mercedes-Benz SL-Class SL 500,Petrol,First,small
+Bangalore,5748.6,2008,31200,Petrol,Automatic,Second,5.0,10.2,5998.0,616.0,Bentley,UK,Europe,c2,13193,Maruti Ciaz 1.4 Zeta,Petrol,Second,small
+Mumbai,49054.72,2010,35000,Petrol,Automatic,Second,5.0,11.9,4806.0,550.0,Porsche,Germany,Europe,c5,20961,Porsche Cayenne Turbo S,Petrol,Second,small
+Bangalore,5748.6,2008,31200,Petrol,Automatic,Second,5.0,10.2,5998.0,616.0,Bentley,UK,Europe,c2,13193,Maruti Ciaz 1.4 Zeta,Petrol,Second,small
